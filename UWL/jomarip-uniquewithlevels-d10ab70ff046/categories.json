@@ -1,0 +1,34 @@
+{
+"categories":[
+	{"uid": 1 ,
+	  "name":"Breakfast Foods"
+	},
+	{"uid": 2 ,
+	  "name": "Body Parts"
+	},
+	{"uid": 3 ,
+	  "name": "Tools"
+	},
+	{"uid": 4 ,
+	  "name": "Cities"
+	},
+	{"uid": 5 ,
+	  "name": "Plays"
+	},
+	{"uid": 6 ,
+	  "name": "Animals"
+	},
+	{"uid": 7 ,
+	  "name": "Target Products"
+	},
+	{"uid": 8 ,
+	  "name": "Movies"
+	},
+	{"uid": 9 ,
+	  "name": "Videogames"
+	},
+	{"id": 10 ,
+	  "name": "Hospital Things "
+	}
+]
+}
